@@ -10,4 +10,4 @@
 #### Folow me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dimakazarov/) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/dkazarov1361) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkazarov)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkazarov)](https://github.com/anuraghazra/github-readme-stats) -->
