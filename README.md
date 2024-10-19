@@ -1,7 +1,7 @@
 
 ![header](https://github.com/dkazarov/dkazarov/blob/main/assets/Dmitry%20Kazarov.jpg)
 # Hello. 
-#  < I am Dmitro Kazarov, and I'm a Frontend Developer />
+#  < I am Dmytro Kazarov, and I'm a Frontend Developer />
 
 ## My Skills
 
