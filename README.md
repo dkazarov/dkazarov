@@ -9,12 +9,14 @@
 
 
 #### Folow me
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dimakazarov/) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/dkazarov1361) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/dmitry-kazarov-190858231)
-
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dimakazarov/) 
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/dkazarov1361) 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkazarov)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react) 
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap)
 ![Jquery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/dmitry-kazarov-190858231)
+
 
 -->
